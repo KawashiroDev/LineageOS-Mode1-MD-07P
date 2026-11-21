@@ -10,5 +10,9 @@ Flash one of the vendor boot images from this repo depending on what software ve
 fastboot flash vendor_boot <path to .img>
 
 Reboot to recovery \
+
+You may need to run the "copy-firmware-a-to-b.sh" script on the phone in recovery mode first if your phone has never been updated \
+
 Format Data and install a lineageos zip from releases \
-(Optional) Reboot to fastboot and install the magisk boot img
+
+(Optional) Reboot to fastboot and install the magisk boot img \
