@@ -6,3 +6,9 @@ If using SP Flash Tool use the scatter file from this XDA thread - https://xdafo
 -----
 Enable OEM unlocking in developer options then reboot to bootloader mode and unlock the bootloader
 
+Flash one of the vendor boot images from this repo depending on what software version your phone is running \
+fastboot flash vendor_boot <path to .img>
+
+Reboot to recovery \
+Format Data and install a lineageos zip from releases \
+(Optional) Reboot to fastboot and install the magisk boot img
