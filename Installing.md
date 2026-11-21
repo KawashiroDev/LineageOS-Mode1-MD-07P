@@ -29,7 +29,7 @@ verification disabled:
 
 ```bash
 fastboot getvar current-slot
-fastboot --disable-verity --disable-verification flash vbmeta vbmeta_disabled.img
+fastboot --disable-verity --disable-verification flash vbmeta_a vbmeta_disabled.img
 ```
 
 Use the slot reported by `current-slot` in place of `_a` here and in step 3.
