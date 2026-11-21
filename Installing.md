@@ -2,7 +2,7 @@
 
 First-time install from stock firmware.
 
-**Make a backup of your partitions first using either SP Flash Tool or MTKClient first!** \
+**Make a backup of your partitions first using either SP Flash Tool or MTKClient first!** 
 
 **This erases everything on the phone.** Back up first. You need `adb` and `fastboot`
 (Android platform-tools) on a computer, a USB cable, and these files from this github repo:
