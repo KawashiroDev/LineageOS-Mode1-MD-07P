@@ -8,7 +8,7 @@ First-time install from stock firmware.
 (Android platform-tools) on a computer, a USB cable, and these files from this github repo:
 
 - `lineage-23.2-<date>-UNOFFICIAL-md07p.zip`
-- `vbmeta.img`
+- `vbmeta_disabled.img`
 - the `lineage-recovery-vendor_boot-stock<version>.img` that matches your phone (see step 3)
 
 ## 1. Unlock the bootloader
@@ -29,7 +29,7 @@ verification disabled:
 
 ```bash
 fastboot getvar current-slot
-fastboot --disable-verity --disable-verification flash vbmeta_a vbmeta.img
+fastboot --disable-verity --disable-verification flash vbmeta vbmeta_disabled.img
 ```
 
 Use the slot reported by `current-slot` in place of `_a` here and in step 3.
