@@ -12,6 +12,7 @@ LineageOS for the Mode1 Pocket MD-07P
 #### Additional features over stock
 - Lower display brightness - The brightness slider allows you to dim the screen further than stock allowed
 - OIRT FM band support - The FM radio app allows tuning from 64-108MHz (Stock allowed 76-108MHz)
+- Root - Uses SukiSU Nova
 - Increased display brightness:\
 (Settings > Display > Brightness boost)\
 This disables MediaTek's AAL to make the screen approximately 50% brighter\
@@ -21,6 +22,7 @@ This disables MediaTek's AAL to make the screen approximately 50% brighter\
 (Settings > System > GPU boost)\
 The Mali G57 has a frequency and voltage profile present for 1.1GHz from MediaTek\
 Stock runs at 1003MHz maximum, This toggle enables it to run at 1.1GHz
+
 
 -----
 
