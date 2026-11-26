@@ -15,7 +15,7 @@ LineageOS for the Mode1 Pocket MD-07P
 
 #### Additional features over stock
 - Lower display brightness - The brightness slider allows you to dim the screen further than stock allowed
-- OIRT FM band support - The FM radio app allows tuning from 64-108MHz (Stock allowed 76-108MHz)
+- OIRT FM band support - The FM chip in the phone allows tuning from 64-108MHz but the stock FM app only allowed tuning to 76-108MHz
 - Root - Uses SukiSU Nova
 - Increased display brightness:\
 (Settings > Display > Brightness boost)\
