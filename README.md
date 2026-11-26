@@ -5,6 +5,7 @@ LineageOS for the Mode1 Pocket MD-07P
 #### Untested features
 - LTE video calling - Unsupported on EE
 - OIRT FM reception - The UK doesn't use those frequencies
+- Gapps - I use MicroG
 
 -----
 
