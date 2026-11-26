@@ -2,6 +2,10 @@
 LineageOS for the Mode1 Pocket MD-07P
 
 -----
+<a href="https://github.com/KawashiroDev/LineageOS-Mode1-MD-07P/blob/main/Installing.md">Installing</a> \
+<a href="https://github.com/KawashiroDev/LineageOS-Mode1-MD-07P/blob/main/After_installing.md">After Installing</a>
+
+-----
 #### Untested features
 - LTE video calling - Unsupported on EE
 - OIRT FM reception - The UK doesn't use those frequencies
